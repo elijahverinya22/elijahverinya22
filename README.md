@@ -5,7 +5,7 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=full+stack+developer+from+Manila;currently+developing+SOULS&font=Fira+Code&size=22&color=6FB7E9&center=true&vCenter=true&width=480&height=50&duration=4000&pause=1000" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=full+stack+developer+from+Manila;currently+developing+SOULS;aspiring+game+developer&font=Fira+Code&size=22&color=6FB7E9&center=true&vCenter=true&width=480&height=50&duration=4000&pause=1000" alt="typing intro" />
 </p>
 
 <!-- Tech stack -->
