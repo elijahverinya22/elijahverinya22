@@ -140,7 +140,7 @@
           y="0"
           width="159.26"
           height="8"
-          fill="#f1e05a"
+          fill="#3B6E99"
         />
       
         <rect
@@ -150,7 +150,7 @@
           y="0"
           width="49.12"
           height="8"
-          fill="#663399"
+          fill="#6FB7E9"
         />
       
         <rect
@@ -160,7 +160,7 @@
           y="0"
           width="31.21"
           height="8"
-          fill="#3572A5"
+          fill="#9AD0F5"
         />
       
         <rect
@@ -170,7 +170,7 @@
           y="0"
           width="16.34"
           height="8"
-          fill="#C1F12E"
+          fill="#7FA6C6"
         />
       
         <rect
@@ -180,42 +180,42 @@
           y="0"
           width="14.059999999999999"
           height="8"
-          fill="#e34c26"
+          fill="#BFE3FF"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#3B6E99" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript 63.71%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#6FB7E9" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 19.65%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#9AD0F5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 12.49%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#C1F12E" />
+      <circle cx="5" cy="6" r="5" fill="#7FA6C6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Batchfile 2.54%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#BFE3FF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 1.63%
       </text>

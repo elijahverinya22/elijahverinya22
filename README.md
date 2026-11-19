@@ -3,8 +3,8 @@
 <!-- Header -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=header&color=1E3A5F&height=200&text=eli&fontColor=BFE3FF&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=BFE3FF&descSize=20&descAlignY=55&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=BFE3FF&height=200&text=eli&fontColor=3B6E99&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=3B6E99&descSize=20&descAlignY=55&animation=fadeIn" alt="header" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=header&color=1E3A5F&height=200&text=hi%2C%20im%20eli!&fontColor=BFE3FF&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=BFE3FF&descSize=20&descAlignY=55&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=BFE3FF&height=200&text=hi%2C%20im%20eli!&fontColor=3B6E99&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=3B6E99&descSize=20&descAlignY=55&animation=fadeIn" alt="header" width="100%" />
   </picture>
 </p>
 
@@ -17,8 +17,8 @@
 <h3 align="center">tech stack</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,c,java,r,py,git,vscode,ps&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=html,css,c,java,r,py,git,vscode,ps&theme=light" alt="tech stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/skills-dark.svg" />
+    <img src="./profile/skills.svg" alt="tech stack" />
   </picture>
 </p>
 
@@ -38,16 +38,16 @@
 <!-- Streak -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=elijahverinya22&hide_border=true&background=12233A&ring=6FB7E9&fire=9AD0F5&currStreakNum=BFE3FF&sideNums=BFE3FF&currStreakLabel=9AD0F5&sideLabels=9AD0F5&dates=7FA6C6&stroke=24486B" />
-    <img src="https://streak-stats.demolab.com/?user=elijahverinya22&hide_border=true&background=F4FAFF&ring=9AD0F5&fire=6FB7E9&currStreakNum=3B6E99&sideNums=3B6E99&currStreakLabel=6FB7E9&sideLabels=6FB7E9&dates=7FA6C6&stroke=DCEEFB" alt="github streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=elijahverinya22&hide_border=true&border_radius=16&background=12233A&ring=6FB7E9&fire=9AD0F5&currStreakNum=BFE3FF&sideNums=BFE3FF&currStreakLabel=9AD0F5&sideLabels=9AD0F5&dates=7FA6C6&stroke=24486B" />
+    <img src="https://streak-stats.demolab.com/?user=elijahverinya22&hide_border=true&border_radius=16&background=F4FAFF&ring=9AD0F5&fire=6FB7E9&currStreakNum=3B6E99&sideNums=3B6E99&currStreakLabel=6FB7E9&sideLabels=6FB7E9&dates=7FA6C6&stroke=DCEEFB" alt="github streak" />
   </picture>
 </p>
 
 <!-- Activity graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=elijahverinya22&hide_border=true&area=true&point=FFFFFF&bg_color=12233A&color=BFE3FF&title_color=BFE3FF&line=6FB7E9&area_color=24486B" />
-    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=elijahverinya22&hide_border=true&area=true&point=FFFFFF&bg_color=F4FAFF&color=3B6E99&title_color=3B6E99&line=6FB7E9&area_color=BFE3FF" alt="activity graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=elijahverinya22&hide_border=true&radius=16&area=true&point=FFFFFF&bg_color=12233A&color=BFE3FF&title_color=BFE3FF&line=6FB7E9&area_color=24486B" />
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=elijahverinya22&hide_border=true&radius=16&area=true&point=FFFFFF&bg_color=F4FAFF&color=3B6E99&title_color=3B6E99&line=6FB7E9&area_color=BFE3FF" alt="activity graph" width="100%" />
   </picture>
 </p>
 
@@ -61,8 +61,8 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="mailto:elijahpaulbverina22@gmail.com"><img src="https://img.shields.io/badge/email-6FB7E9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="email" /></a>
-  <a href="https://www.facebook.com/elijahverinya"><img src="https://img.shields.io/badge/facebook-3B6E99?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="facebook" /></a>
+  <a href="mailto:elijahpaulbverina22@gmail.com"><img src="./profile/badge-email.svg" alt="email" /></a>
+  <a href="https://www.facebook.com/elijahverinya"><img src="./profile/badge-facebook.svg" alt="facebook" /></a>
 </p>
 
 <!-- Footer -->
