@@ -97,7 +97,7 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="16"
           height="99%"
           stroke="#e4e2e2"
           width="299"
@@ -170,7 +170,7 @@
           y="0"
           width="16.34"
           height="8"
-          fill="#3B6E99"
+          fill="#7FA6C6"
         />
       
         <rect
@@ -208,7 +208,7 @@
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3B6E99" />
+      <circle cx="5" cy="6" r="5" fill="#7FA6C6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Batchfile 2.54%
       </text>
