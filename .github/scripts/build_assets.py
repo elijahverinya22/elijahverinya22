@@ -16,7 +16,7 @@ LANG_COLORS = {
     "top-langs.svg": ["3B6E99", "6FB7E9", "9AD0F5", "7FA6C6", "BFE3FF"],
     "top-langs-dark.svg": ["BFE3FF", "9AD0F5", "6FB7E9", "7FA6C6", "3B6E99"],
 }
-ICONS = "html,css,c,java,r,py,git,vscode,ps"
+ICONS = "html,css,js,c,java,r,py,git,vscode,ps"
 ICON_RADIUS = 96  # skillicons ships rx=60 on a 256 tile
 BADGES = {
     "badge-email.svg": "email-6FB7E9?style=for-the-badge&logo=gmail&logoColor=FFFFFF",
