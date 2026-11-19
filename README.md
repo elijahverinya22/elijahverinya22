@@ -3,8 +3,8 @@
 <!-- Header -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=header&color=1E3A5F&height=200&text=hi%2C%20im%20eli!&fontColor=BFE3FF&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=BFE3FF&descSize=20&descAlignY=55&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=BFE3FF&height=200&text=hi%2C%20im%20eli!&fontColor=3B6E99&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=3B6E99&descSize=20&descAlignY=55&animation=fadeIn" alt="header" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=header&color=1E3A5F&height=200&text=hi%2C%20i%27m%20eli!&fontColor=BFE3FF&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=BFE3FF&descSize=20&descAlignY=55&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=BFE3FF&height=200&text=hi%2C%20i%27m%20eli!&fontColor=3B6E99&fontSize=70&fontAlignY=35&desc=welcome%20to%20my%20profile!&descColor=3B6E99&descSize=20&descAlignY=55&animation=fadeIn" alt="header" width="100%" />
   </picture>
 </p>
 
